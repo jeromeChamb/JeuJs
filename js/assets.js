@@ -1,6 +1,6 @@
 /* Les assets, on pourra plus tard ajouter des sons et des musiques */
 const assetsToLoadURLs = {
-    vieImg: { url: "https://jeromechamb.github.io/assets/image/vie.png" },
+    vieImg: { url: "../assets/image/vie.png" },
     deadImg: { url: "../assets/image/dead.png" },
     ghost: { url: "../assets/image/ghost.png" },
     diableImg: { url: "../assets/image/diable.png" },
